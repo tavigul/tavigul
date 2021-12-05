@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tavita! Frontend Dev based in Bishkek, Kyrgyzstan. 
+- 👀 I’m interested in Frontend Development )
+- 🌱 I’m currently learning TypeScript, Node.js, Vue.js 3
+- 📫 How to reach me: menashetavita@gmail.com
