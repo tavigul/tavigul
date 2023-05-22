@@ -8,6 +8,6 @@ If interested in seeing some of them give my main website a visit.
 
 ## Skills Set
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vue,node.js,sass,vite,nextjs,css,gitlab,github,tailwind,bootstrap,html,css,figma,git,npm,yarn,docker,powershell&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vue,nodejs,sass,vite,nextjs,css,gitlab,github,tailwind,bootstrap,html,css,figma,git,npm,yarn,docker,postman,vscode,powershell&theme=dark)](https://skillicons.dev)
 
 
