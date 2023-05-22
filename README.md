@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Tavita! Frontend Dev 
-- 👀 I’m in love with Frontend Development )
-- 🌱 I’m currently learning Node.js
-- 📫 How to reach me: menashetavita@gmail.com
+### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tavita Menashe
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Frontend+Developer;Creative+Developer;Endless+student+XD;Problem+Solver)](https://git.io/typing-svg)
 
-# Hi there, I'm [Tavita](https://www.linkedin.com/in/tavita-menashe/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Frontend dev, endless computer science student, IT entusiast from Central Asia 🇰🇬 🇷
+I'm a Software Engineer based in Bishkek, Kyrgyzstan 🇰. Endless computer science student, IT entusiast from Central Asia 🇰 </br> That happens to takes photographs and is pationate about it. 
+If interested in seeing some of them give my main website a visit.
+
