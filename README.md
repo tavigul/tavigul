@@ -11,3 +11,9 @@ If interested in seeing some of them give my main website a visit.
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vue,nodejs,sass,vite,nextjs,css,gitlab,github,tailwind,bootstrap,html,css,figma,git,github,gitlab,express,jenkins,docker,postman,vscode,webpack,mongodb,firebase,powershell&theme=dark)](https://skillicons.dev)
 
 
+## 📫 GitHub Stats
+| General         | Most Used Languages |
+|--------------|:-----:|
+| <a href="https://github.com/lertsoft/lertsoft"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lertsoft&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Lertsoft's github stats" /></a>  |   <a href="https://github.com/lertsoft/lertsoft"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertsoft&langs_count=5" /></a> |        
+
+
