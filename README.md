@@ -14,6 +14,6 @@ If interested in seeing some of them give my main website a visit.
 ## 📫 GitHub Stats
 | General         | Most Used Languages |
 |--------------|:-----:|
-| <a href="https://github.com/lertsoft/lertsoft"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lertsoft&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Lertsoft's github stats" /></a>  |   <a href="https://github.com/lertsoft/lertsoft"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertsoft&langs_count=5" /></a> |        
+| <a href="https://github.com/tavigul/tavigul"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tavigul&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Tavita's github stats" /></a>  |   <a href="https://github.com/lertsoft/lertsoft"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavigul&langs_count=5" /></a> |        
 
 
