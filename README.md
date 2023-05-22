@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff64da&lines=Frontend+Developer;Creative+Developer;Endless+student+XD;Problem+Solver)](https://git.io/typing-svg)
 
-I'm a Software Engineer based in Bishkek, Kyrgyzstan 🇰. Endless computer science student, IT entusiast from Central Asia 🇰 </br> That happens to takes photographs and is pationate about it. 
-If interested in seeing some of them give my main website a visit.
-
+I'm a Software Engineer based in Bishkek, Kyrgyzstan. Endless computer science student, IT entusiast from Central Asia. </br> That happens to see mountains and is pationate about it. Mountains | travel lover.
 
 ## Skills Set
 
