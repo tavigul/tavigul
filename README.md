@@ -1,4 +1,4 @@
-### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tavita Menashe
+### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tavita 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ff64da&lines=Frontend+Developer;Endless+Computer+Science+student+XD;Problem+Solver)](https://git.io/typing-svg)
 
