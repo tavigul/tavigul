@@ -1,6 +1,7 @@
 ### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tavita 
 
 I'm a Software Engineer based in Bishkek, Kyrgyzstan. Endless computer science student, IT entusiast from Central Asia. </br> Hiking | running | horse | travel lover.
+</br> It may seem like I'm not very active here, so feel free to reach out to me via email at: menashetavita@gmail.com ;)
 
 ## 📫 GitHub Stats
 | General         | Most Used Languages |
